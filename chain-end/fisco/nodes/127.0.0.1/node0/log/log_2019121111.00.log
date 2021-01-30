@@ -1,0 +1,6 @@
+info|2019-12-11 11:00:00.984726|[g:1][CONSENSUS]addRawPrepare,height=1,reqIdx=2,hash=61a671b5...
+info|2019-12-11 11:00:00.986011|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=11670,toView=11671,nodeIdx=3,changeCycle=0,myNode=d0064285...,timecost=1.044
+info|2019-12-11 11:00:00.989661|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=11670,org_changeCycle=0,cur_changeCycle=0,to_view=11671
+info|2019-12-11 11:00:01.990112|[g:1][CONSENSUS][SEALER]++++++++++++++++ Generating seal on,blkNum=1,tx=0,nodeIdx=3,hash=8b7729b5...
+info|2019-12-11 11:00:01.996931|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=11671,toView=11672,nodeIdx=3,changeCycle=0,myNode=d0064285...,timecost=2.045
+info|2019-12-11 11:00:01.998482|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=11671,org_changeCycle=0,cur_changeCycle=0,to_view=11672

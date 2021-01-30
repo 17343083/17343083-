@@ -1,0 +1,6 @@
+info|2019-12-11 11:00:00.984300|[g:1][CONSENSUS]addRawPrepare,height=1,reqIdx=2,hash=61a671b5...
+info|2019-12-11 11:00:00.985253|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=11670,toView=11671,nodeIdx=0,changeCycle=0,myNode=5f8c8907...,timecost=0.703
+info|2019-12-11 11:00:00.989072|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=11670,org_changeCycle=0,cur_changeCycle=0,to_view=11671
+info|2019-12-11 11:00:01.992260|[g:1][CONSENSUS]addRawPrepare,height=1,reqIdx=3,hash=8b7729b5...
+info|2019-12-11 11:00:01.993938|[g:1][CONSENSUS][PBFT]checkTimeout Succ,view=11671,toView=11672,nodeIdx=0,changeCycle=0,myNode=5f8c8907...,timecost=1.439
+info|2019-12-11 11:00:01.997284|[g:1][CONSENSUS][PBFT]checkAndChangeView: Reach consensus,org_view=11671,org_changeCycle=0,cur_changeCycle=0,to_view=11672
